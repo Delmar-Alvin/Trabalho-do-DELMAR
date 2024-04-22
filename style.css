@@ -1,0 +1,71 @@
+header{background-color:black;
+color:red;
+}
+.cabecalho-imagem{
+    margin: 0 35px;
+    width: 25%;
+}
+.cabecalho {
+    background-color:black;
+    color:red;
+    justify-content:space-around;
+    align-items:center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    
+    margin: 0 16px;
+    font-size: 24px;
+}
+.cabecalho-titulo{
+    margin: 0 35px;
+}
+.biografia-div-conteudo{
+    width: 35%;
+}
+.Biografia-titulo{
+    padding: 10px 0;
+    margin: 0 24px;
+}
+.Biografia-texto-um{
+    margin: 0 24px;
+}
+.Biografia-texto-dois{
+    margin: 0 24px;
+}
+.produtora-titulo{
+    margin:0 24px ;
+    padding: 24px 0;
+}
+.produtora-texto-um{
+    margin: 0 24px;
+}
+.produtora-texto-dois{
+    margin: 0 24px;
+}
+.produtora-texto-tres{
+    margin: 0 24px;
+}
+.musica-imagem{
+    margin:0 24px;
+    width: 90%;
+}
+.Biografia{
+ background-color: black;
+ color: red;
+}
+.discografia-texto-um{
+padding: 24px ;
+}
+.Maquina-do-Tempo{
+    color: purple;
+    margin: 0 15px;
+}
+.Maquina-do-Tempo-album{
+    color: purple;
+    padding: 10px;
+    margin: 0 px;
+}
+.Vampiro{
+    color: red;
+}
